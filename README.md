@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Agent-boy
+- 👋 Hi, I’m Abhinav kumar Bindra
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and C++
-- 💞️ I’m looking to collaborate on ...
+
   
 
 <!---
